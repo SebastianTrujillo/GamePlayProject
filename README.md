@@ -1,2 +1,2 @@
 # GamePlayProject
-(Angular/Node.js Project) - Aplicación web para la gestión de videojuegos
+(Angular/Node.js Project) - Web application for video game management
